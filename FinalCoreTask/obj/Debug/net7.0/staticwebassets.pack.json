@@ -1,0 +1,1041 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FinalCoreTask.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FinalCoreTask.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\animate.css",
+      "PackagePath": "staticwebassets\\temp\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\temp\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\temp\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\temp\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\temp\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\temp\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\temp\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\temp\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\slicknav.css",
+      "PackagePath": "staticwebassets\\temp\\css\\slicknav.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\style.css",
+      "PackagePath": "staticwebassets\\temp\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\style.map",
+      "PackagePath": "staticwebassets\\temp\\css\\style.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\temp\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\theme-default.map",
+      "PackagePath": "staticwebassets\\temp\\css\\theme-default.map"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\temp\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\temp\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\temp\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\temp\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\temp\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\temp\\fonts\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\temp\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\flaticon.css",
+      "PackagePath": "staticwebassets\\temp\\fonts\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\temp\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\gijgo-material.eot",
+      "PackagePath": "staticwebassets\\temp\\fonts\\gijgo-material.eot"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\gijgo-material.svg",
+      "PackagePath": "staticwebassets\\temp\\fonts\\gijgo-material.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\gijgo-material.ttf",
+      "PackagePath": "staticwebassets\\temp\\fonts\\gijgo-material.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\gijgo-material.woff",
+      "PackagePath": "staticwebassets\\temp\\fonts\\gijgo-material.woff"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\temp\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\temp\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\temp\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\temp\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\about\\1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\about\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\about\\2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\about\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\about\\business.png",
+      "PackagePath": "staticwebassets\\temp\\img\\about\\business.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\banner\\about_banner.png",
+      "PackagePath": "staticwebassets\\temp\\img\\banner\\about_banner.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\banner\\banner.png",
+      "PackagePath": "staticwebassets\\temp\\img\\banner\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\banner\\banner2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\banner\\banner2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\banner\\bradcam.png",
+      "PackagePath": "staticwebassets\\temp\\img\\banner\\bradcam.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\banner\\bradcam2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\banner\\bradcam2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\banner\\bradcam3.png",
+      "PackagePath": "staticwebassets\\temp\\img\\banner\\bradcam3.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\banner\\emergency-1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\banner\\emergency-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\banner\\emergency-2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\banner\\emergency-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\author.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\blog_1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\blog_2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\blog_3.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\blog_4.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\learn_about_bg.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\learn_about_bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\single_blog_1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\single_blog_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\single_blog_2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\single_blog_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\single_blog_3.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\single_blog_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\single_blog_4.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\single_blog_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\single_blog_5.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\single_blog_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\blog\\slide_thumb_1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\blog\\slide_thumb_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\comment\\comment_1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\comment\\comment_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\comment\\comment_2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\comment\\comment_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\comment\\comment_3.png",
+      "PackagePath": "staticwebassets\\temp\\img\\comment\\comment_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\department\\1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\department\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\department\\2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\department\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\department\\3.png",
+      "PackagePath": "staticwebassets\\temp\\img\\department\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\department\\4.png",
+      "PackagePath": "staticwebassets\\temp\\img\\department\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\department\\5.png",
+      "PackagePath": "staticwebassets\\temp\\img\\department\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\department\\6.png",
+      "PackagePath": "staticwebassets\\temp\\img\\department\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\a.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\a2.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\a2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\temp\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\experts\\1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\experts\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\experts\\2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\experts\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\experts\\3.png",
+      "PackagePath": "staticwebassets\\temp\\img\\experts\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\experts\\4.png",
+      "PackagePath": "staticwebassets\\temp\\img\\experts\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\experts\\5.png",
+      "PackagePath": "staticwebassets\\temp\\img\\experts\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\experts\\6.png",
+      "PackagePath": "staticwebassets\\temp\\img\\experts\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\experts\\7.png",
+      "PackagePath": "staticwebassets\\temp\\img\\experts\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\experts\\8.png",
+      "PackagePath": "staticwebassets\\temp\\img\\experts\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\experts\\9.png",
+      "PackagePath": "staticwebassets\\temp\\img\\experts\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\temp\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\temp\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\footer_logo.png",
+      "PackagePath": "staticwebassets\\temp\\img\\footer_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\instragram\\1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\instragram\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\instragram\\2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\instragram\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\instragram\\3.png",
+      "PackagePath": "staticwebassets\\temp\\img\\instragram\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\instragram\\4.png",
+      "PackagePath": "staticwebassets\\temp\\img\\instragram\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\instragram\\5.png",
+      "PackagePath": "staticwebassets\\temp\\img\\instragram\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\logo.png",
+      "PackagePath": "staticwebassets\\temp\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\offers\\1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\offers\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\offers\\2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\offers\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\offers\\3.png",
+      "PackagePath": "staticwebassets\\temp\\img\\offers\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\next.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\post_1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\post_1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\post_10.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\post_10.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\post_2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\post_2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\post_3.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\post_3.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\post_4.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\post_4.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\post_5.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\post_5.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\post_6.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\post_6.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\post_7.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\post_7.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\post_8.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\post_8.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\post_9.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\post_9.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\post\\preview.png",
+      "PackagePath": "staticwebassets\\temp\\img\\post\\preview.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\rooms\\1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\rooms\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\rooms\\2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\rooms\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\rooms\\3.png",
+      "PackagePath": "staticwebassets\\temp\\img\\rooms\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\rooms\\4.png",
+      "PackagePath": "staticwebassets\\temp\\img\\rooms\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\testmonial\\1.png",
+      "PackagePath": "staticwebassets\\temp\\img\\testmonial\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\testmonial\\2.png",
+      "PackagePath": "staticwebassets\\temp\\img\\testmonial\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\img\\video\\video.png",
+      "PackagePath": "staticwebassets\\temp\\img\\video\\video.png"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\ajax-form.js",
+      "PackagePath": "staticwebassets\\temp\\js\\ajax-form.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\contact.js",
+      "PackagePath": "staticwebassets\\temp\\js\\contact.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\jquery.form.js",
+      "PackagePath": "staticwebassets\\temp\\js\\jquery.form.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\jquery.slicknav.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\jquery.slicknav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\mail-script.js",
+      "PackagePath": "staticwebassets\\temp\\js\\mail-script.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\main.js",
+      "PackagePath": "staticwebassets\\temp\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\nice-select.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\temp\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\scrollIt.js",
+      "PackagePath": "staticwebassets\\temp\\js\\scrollIt.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\vendor\\modernizr-3.5.0.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\vendor\\modernizr-3.5.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\temp\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_about.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_blog.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_blog_part.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_blog_part.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_bradcam.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_bradcam.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_btn.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_btn.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_contact.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_department.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_department.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_elements.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_elements.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_emergency_contact.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_emergency_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_experts.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_experts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_extend.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_offers.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_offers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_responsive.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_section_title.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_section_title.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_service.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_service.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_slick-nav.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_slick-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_slider.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_tesmonial.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_tesmonial.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\_varriable.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\_varriable.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ayahi\\source\\repos\\FinalCoreTask\\FinalCoreTask\\wwwroot\\temp\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\temp\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FinalCoreTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FinalCoreTask.props",
+      "PackagePath": "build\\FinalCoreTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalCoreTask.props",
+      "PackagePath": "buildMultiTargeting\\FinalCoreTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FinalCoreTask.props",
+      "PackagePath": "buildTransitive\\FinalCoreTask.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
